@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+
+	<sessions>
+		<session sID="1" uID="1" continuousLoop="true">
+
+			<events>
+				<event level="2" exer="1" limitT="-1" interT="-1" interChar="-1" interType="2" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+
+				<event level="2" exer="2" limitT="-1" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+
+				<event level="2" exer="3" limitT="-1" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+
+				<event level="2" exer="4" limitT="-1" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+
+				<event level="2" exer="5" limitT="-1" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+
+				<event level="2" exer="6" limitT="-1" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+
+				<event level="2" exer="7" limitT="14" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+			</events>
+
+			<triggers>
+				<trigger interT="10" interChar="-1" interType="1" questT="-1" questChar="-1" questType="-1"></trigger>
+				<trigger interT="20" interChar="-1" interType="2" questT="-1" questChar="-1" questType="1"></trigger>
+				<trigger interT="-1" interChar="-1" interType="1" questT="25" questChar="-1" questType="2"></trigger>
+				<trigger interT="40" interChar="-1" interType="2" questT="-1" questChar="-1" questType="-1"></trigger>
+				<trigger interT="50" interChar="-1" interType="1" questT="-1" questChar="-1" questType="-1"></trigger>
+				<trigger interT="60" interChar="-1" interType="2" questT="-1" questChar="-1" questType="2"></trigger>
+			</triggers>
+
+		</session>
+
+		<session sID="2" uID="1" continuousLoop="true">
+
+			<events>
+				<event level="2" exer="1" limitT="-1" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+
+				<event level="2" exer="2" limitT="-1" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+
+				<event level="2" exer="3" limitT="-1" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+
+				<event level="2" exer="4" limitT="-1" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+
+				<event level="2" exer="5" limitT="-1" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+
+				<event level="2" exer="6" limitT="-1" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+
+				<event level="2" exer="7" limitT="14" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+			</events>
+
+			<triggers>
+				<trigger interT="5" interChar="-1" interType="1" questT="-1" questChar="-1" questType="-1"></trigger>
+				<trigger interT="10" interChar="-1" interType="2" questT="-1" questChar="-1" questType="1"></trigger>
+				<trigger interT="15" interChar="-1" interType="1" questT="-1" questChar="-1" questType="-1"></trigger>
+				<trigger interT="20" interChar="-1" interType="2" questT="-1" questChar="-1" questType="-1"></trigger>
+				<trigger interT="25" interChar="-1" interType="1" questT="-1" questChar="-1" questType="-1"></trigger>
+				<trigger interT="30" interChar="-1" interType="2" questT="-1" questChar="-1" questType="2"></trigger>
+			</triggers>
+
+		</session>
+
+		<session sID="3" uID="1" continuousLoop="true">
+
+			<events>
+				<event level="2" exer="1" limitT="-1" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+
+				<event level="2" exer="2" limitT="-1" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+
+				<event level="2" exer="3" limitT="-1" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+
+				<event level="2" exer="4" limitT="-1" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+
+				<event level="2" exer="5" limitT="-1" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+
+				<event level="2" exer="6" limitT="-1" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+
+				<event level="2" exer="7" limitT="14" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+			</events>
+
+			<triggers>
+				<trigger interT="5" interChar="-1" interType="1" questT="-1" questChar="-1" questType="-1"></trigger>
+				<trigger interT="10" interChar="-1" interType="2" questT="-1" questChar="-1" questType="1"></trigger>
+				<trigger interT="15" interChar="-1" interType="1" questT="-1" questChar="-1" questType="-1"></trigger>
+				<trigger interT="20" interChar="-1" interType="2" questT="-1" questChar="-1" questType="-1"></trigger>
+				<trigger interT="25" interChar="-1" interType="1" questT="-1" questChar="-1" questType="-1"></trigger>
+				<trigger interT="30" interChar="-1" interType="2" questT="-1" questChar="-1" questType="2"></trigger>
+			</triggers>
+
+		</session>
+
+	</sessions>
+
+	<timers>
+		<post-measurements>1000</post-measurements>
+		<computational-model>4000</computational-model>
+	</timers>
+
+	<sensors>
+		<noldus>true</noldus>
+		<tobii>true</tobii>
+		<arduino>false</arduino>
+		<wear>true</wear>
+	</sensors>
+
+	<interupts>
+		<visual>
+			<image type="2" path="img/motnja/garfield.png" length="1750"></image>
+			<image type="1" path="img/motnja/Shapes_V1.png" length="1750"></image>
+		</visual>
+		<audio>
+			<record type="1" path="sounds/motnja/07_Ton_A_MIš_Pismo_nahrbtnik_ura.mp3" length="1750"></record>
+			<record type="2" path="sounds/motnja/10_Manjši_krog.mp3" length="1750"></record>
+			<record type="3" path="sounds/motnja/11inPOL_Ton_A.mp3" length="1750"></record>
+			<record type="4" path="sounds/motnja/13_Ton_A_slon_korenje_peruti_kit.mp3" length="1750"></record>
+		</audio>
+	</interupts>
+
+</config>

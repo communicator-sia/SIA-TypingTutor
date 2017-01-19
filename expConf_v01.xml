@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+
+	<sessions>
+		<session sID="1" uID="1" continuousLoop="true">
+			<events>
+				<event level="2" exer="1" limitT="-1" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+				<event level="2" exer="2" limitT="-1" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+				<event level="2" exer="3" limitT="-1" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+				<event level="2" exer="4" limitT="-1" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+				<event level="2" exer="5" limitT="-1" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+				<event level="2" exer="6" limitT="-1" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+				<event level="2" exer="7" limitT="-1" interT="-1" interChar="-1" interType="-1" questT="-1" questChar="-1" questType="-1" clickNext="false"></event>
+			</events>
+			<triggers>
+				<triger interT="5" interChar="-1" interType="1" questT="-1" questChar="-1" questType="-1"></triger>
+				<trigger interT="-1" interChar="-1" interType="-1" questT="300" questChar="-1" questType="2"></trigger>
+				<trigger interT="600" interChar="-1" interType="2" questT="-1" questChar="-1" questType="-1"></trigger>
+				<trigger interT="690" interChar="-1" interType="3" questT="-1" questChar="-1" questType="-1"></trigger>
+				<trigger interT="780" interChar="-1" interType="4" questT="-1" questChar="-1" questType="-1"></trigger>
+				<trigger interT="-1" interChar="-1" interType="-1" questT="900" questChar="-1" questType="2"></trigger>
+			</triggers>
+		</session>
+	</sessions>
+
+	<timers>
+		<post-measurements>1000</post-measurements>
+		<computational-model>4000</computational-model>
+	</timers>
+
+	<sensors>
+		<noldus>true</noldus>
+		<tobii>true</tobii>
+		<arduino>false</arduino>
+		<wear>true</wear>
+	</sensors>
+
+	<interupts>
+		<visual>
+			<image type="2" path="img/motnja/Liki_TT.png" length="1750"></image>
+		</visual>
+		<audio>
+			<record type="1" path="sounds/motnja/07_Ton_A_MIš_Pismo_nahrbtnik_ura.mp3" length="1750"></record>
+			<record type="2" path="sounds/motnja/10_Manjši_krog.mp3" length="1750"></record>
+			<record type="3" path="sounds/motnja/11inPOL_Ton_A.mp3" length="1750"></record>
+			<record type="4" path="sounds/motnja/13_Ton_A_slon_korenje_peruti_kit.mp3" length="1750"></record>
+		</audio>
+	</interupts>
+
+</config>
